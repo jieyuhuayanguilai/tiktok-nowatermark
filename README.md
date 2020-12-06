@@ -20,3 +20,4 @@ Tiktok downloading video multichannel download, all HD HD no watermark, support 
 ### Divided into five functions of 1,2,3,4,5, you can download a single video of shaking, all the video tiktok, the specified number of videos of a certain music, the specified number of videos of a challenge.
 ### You can package it into an executable file, which is easy to use. I've already packed it. The download URL is https://wwa.lanzous.com/iep2eedlfsb
 
+从别人处fork的，bug还有不少，错误说明也没有解释，输入有误，溢出内存，等等
